@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/item-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_study.iml" filepath="$PROJECT_DIR$/.idea/spring_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" />
+    </modules>
+  </component>
+</project>
